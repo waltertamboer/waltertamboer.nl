@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Tamboer;Walter;;Walter Tamboer;
+ADR;INTL;PARCEL;WORK:;;Aert van Nesstraat 25-A1;Rotterdam;Zuid-Holland;3012CA;The Netherlands
+ADR;DOM;PARCEL;HOME:;;;Rotterdam;Zuid-Holland;;The Netherlands
+PHOTO:http://www.waltertamboer.nl/photo.png
+ORG:Polder Knowledge
+TITLE:Lead Developer
+URL;WORK:http://polderknowledge.nl
+URL:http://waltertamboer.nl
+END:VCARD
